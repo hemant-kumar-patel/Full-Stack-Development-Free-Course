@@ -1,2 +1,9 @@
 # Full-Stack-Development-Free-Course
-This is a Full stack development course Tutorial
+In this tutorial I include 
+HTMl
+CSS
+Javascript
+Jquery
+PHP
+And Many more thingh
+
